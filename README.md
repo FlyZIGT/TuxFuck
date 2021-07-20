@@ -1,1 +1,3 @@
 # TuxFuck
+
+Virus de Distro Help HECHO POR DIVERSIÓN Y NO PARA REVENTAR ORDENADORES.
